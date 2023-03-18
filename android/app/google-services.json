@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "380380581371",
+    "project_id": "taskui-d2d78",
+    "storage_bucket": "taskui-d2d78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380380581371:android:5e2ededa6b7564ab188f5e",
+        "android_client_info": {
+          "package_name": "com.example.flutter_ui_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "380380581371-aogg461vunv0bv0eb1f81fj0pvl2nf8c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOEuOGknqz5YntQ9Uye73gPKkZMkb3HnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "380380581371-aogg461vunv0bv0eb1f81fj0pvl2nf8c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
